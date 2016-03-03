@@ -1,0 +1,24 @@
+{
+  "name": "lab-markdown-styleguide-generator",
+  "version": "1.0.0",
+  "description": "Leran & test markdown-styleguide-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letanure/lab-markdown-styleguide-generator.git"
+  },
+  "keywords": [
+    "markdown",
+    "style",
+    "doc"
+  ],
+  "author": "letanure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letanure/lab-markdown-styleguide-generator/issues"
+  },
+  "homepage": "https://github.com/letanure/lab-markdown-styleguide-generator#readme"
+}
